@@ -7,7 +7,7 @@ https://github.com/takagotch/page279
 ```sh
 mv dashboard.html index.html
 
-
+Rename c3.html to index.html
 ```
 
 ```
